@@ -63,7 +63,7 @@ display_list = []
 def main() -> None:
     init()
     life = 0
-    while(is_game_end() == False):
+    while not is_game_end():
         if life < len(hangman) - 1:
             print(hangman[life])
         else:
