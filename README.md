@@ -11,3 +11,5 @@
   '-\__Y__/-'
      `---`
 ```
+
+*main.py is my code, and the solution folder contain solutions.*
